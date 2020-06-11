@@ -4,3 +4,18 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix sio: <http://semanticscience.org/resource/SIO_> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
+
+Panic-laden news contributed to a greater extent to the volatility in the individual economic sectors perceived to be most affected by coronavirus outbreak.
+
+classes:
+sectors -> economic sectors -> individual economic sectors
+news
+panic
+volatility
+outbreak -> coronavirus outbreak
+
+predicates:
+contributedTo
+containing; hasHigh (panic)
+"a greater extent"
+affectedBy ("most affected by")
