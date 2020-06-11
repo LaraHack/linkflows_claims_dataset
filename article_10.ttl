@@ -4,3 +4,26 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix sio: <http://semanticscience.org/resource/SIO_> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
+
+
+Estimates of disability-adjusted life years (DALYs) due to COVID-19 in Korea indicates that decision-makers should focus and make an effort on reducing fatality for preparing the second wave of COVID-19.
+
+
+classes:
+year -> life years
+disability
+disease -> virus -> COVID19
+country -> Korea
+numbers -> estimate
+decision
+person
+effort
+death/fatality
+wave -> second
+
+predicates:
+adjusted
+makes ("decision-makers", "effort")
+reduce
+prepares
+focus
