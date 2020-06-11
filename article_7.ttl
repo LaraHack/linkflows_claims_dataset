@@ -4,3 +4,19 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix sio: <http://semanticscience.org/resource/SIO_> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
+
+Endodontic emergencies form a much higher proportion of dental emergencies in a COVID-19 high-risk area than normally.
+
+classes:
+emergency -> dental emergency -> endodontic emergency
+disease -> virus -> COVID-19
+
+predicates:
+hasHighProportion
+
+"high-risk area":
+class: area, risk
+predicates: hasHigh
+OR
+class: area
+predicate: hasHighRisk (area with a lot of -- individuals with -- COVID-19)
