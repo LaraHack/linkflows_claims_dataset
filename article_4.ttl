@@ -4,3 +4,24 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix sio: <http://semanticscience.org/resource/SIO_> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
+
+Transcriptome analysis of Sinorhizobium meliloti during symbiosis shows the differential expression of several classes of genes related to invasion, oxidative stress protection, iron mobilization, and signaling, thus emphasizing possible common mechanisms between symbiosis and pathogenesis.
+
+classes:
+organism -> ... -> Sinorhizobium meliloti
+analysis -> transcriptome analysis
+symbiosis
+expression -> differential expression
+genes
+invasion
+protection -> oxidative stress protection
+mobilization -> iron mobilization
+signaling
+mechanism
+symbiosis
+pathogenesis
+
+predicates:
+isIn ("during symbiosis")
+shows (also for "emphasizes")
+relatedTo
