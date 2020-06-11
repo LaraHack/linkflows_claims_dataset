@@ -4,3 +4,17 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix sio: <http://semanticscience.org/resource/SIO_> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
+
+The Dictyostelium discoideum RNA-dependent RNA polymerase RrpC silences the centromeric retrotransposon DIRS-1 post-transcriptionally and is required for the spreading of RNA silencing signals
+
+classes:
+Dictyostelium discoideum
+polymerase -> RNA polymerase -> RrpC
+centromeric retrotransposon -> DIRS-1
+RNA -> RNA signals
+spread(-ing)
+
+predicates:
+isDependent ("RNA-dependent")
+silences
+requiredFor
