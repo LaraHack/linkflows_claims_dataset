@@ -20,7 +20,6 @@ response
 discrete
 sensors -> force, flexion sensors
 
-
 predicates:
 are ("inexpensive", "recording", "controlling", "discrete")
 usedIn
