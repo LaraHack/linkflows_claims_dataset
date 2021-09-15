@@ -9,4 +9,5 @@ This repository contains the scientific claims that make up dataset A (50 claims
   * needs to be a research paper
   
  ````diff
+- WILL ADD THE ACTUAL DATA (pending...)
 - I will write more here and optimize the directory structure!!!
