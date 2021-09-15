@@ -1,6 +1,6 @@
 # linkflows_claims_dataset
 
-This repository contains (initially) a list of 10 randomly selected papers from Semantic Scholar and from PubMed COVID-19 (5 papers each).
+This repository contains the scietific claims that make up dataset A (50 claims) and dataset B (25 claims) from randomly selected papers from Semantic Scholar. (will write more here)
 
 ### Criteria for paper selection:
   * needs to be written in English
