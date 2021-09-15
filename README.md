@@ -8,4 +8,4 @@ This repository contains the scientific claims that make up dataset A (50 claims
   * needs to have an abstract
   * needs to be a research paper
   
-  ![(I will write more here and optimize the directory structure)](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+  -![(I will write more here and optimize the directory structure)](https://via.placeholder.com/15/f03c15/000000?text=+)
