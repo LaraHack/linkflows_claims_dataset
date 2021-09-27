@@ -8,5 +8,3 @@ This repository contains the scientific claims that make up dataset A (50 claims
   * needs to have an abstract
   * needs to be a research paper
   
- ````diff
-- more will be written here :)
